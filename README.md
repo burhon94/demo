@@ -1,4 +1,4 @@
-# Heding
+# Heading
 
 * List item
 * List item
